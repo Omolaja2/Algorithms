@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Alogrithms\bin\Debug\net8.0\Alogrithms.exe
+C:\Users\USER\Desktop\Alogrithms\bin\Debug\net8.0\Alogrithms.deps.json
+C:\Users\USER\Desktop\Alogrithms\bin\Debug\net8.0\Alogrithms.runtimeconfig.json
+C:\Users\USER\Desktop\Alogrithms\bin\Debug\net8.0\Alogrithms.dll
+C:\Users\USER\Desktop\Alogrithms\bin\Debug\net8.0\Alogrithms.pdb
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.AssemblyInfo.cs
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.dll
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\refint\Alogrithms.dll
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.pdb
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\Alogrithms.genruntimeconfig.cache
+C:\Users\USER\Desktop\Alogrithms\obj\Debug\net8.0\ref\Alogrithms.dll
